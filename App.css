@@ -1,0 +1,36 @@
+.App {
+    text-align: center;
+    padding: 20px;
+    background-color: #71b8eb;
+    background-image: "D:/react1/app1/src/images/teamwork-pictures-don5zvz7d1ip1ovb.jpg";
+
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: right;
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  nav li {
+    font-size: 18px;
+    ;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.2s;
+  }
+  
+  nav a:hover {
+    color: #131518;
+  }
+  navbar{ display : flex;}
+  .div1{
+    background-color: rgb(145, 125, 164);
+  }
+  
